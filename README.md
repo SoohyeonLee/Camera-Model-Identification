@@ -17,8 +17,8 @@
 - 학회 / 학회지 : 한국정보처리학회 (KIPS) / KIPS TRANSACTIONS ON SOFTWARE AND DATA ENGINEERING (KTSDE)
 - 국문 제목 : 딥러닝 기반 카메라 모델 판별
 - 영문 제목 : Camera Model Identification based on Deep Learning
-- Accepted : 2019.08.10
-- DOI : 게재 예정
+- Published : 2019.10.31
+- DOI : https://doi.org/10.3745/KTSDE.2019.8.10.411
 
 ## 실험 환경
 
